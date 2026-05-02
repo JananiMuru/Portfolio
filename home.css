@@ -216,7 +216,7 @@
 
   .hero__badges {
     max-width: 420px;
-    margin-left: 0;
+    margin-left: auto;
     margin-right: auto;
   }
 
@@ -278,7 +278,7 @@
   .hero__badges {
     width: 100%;
     max-width: 100%;
-    margin-left: 0;
+    margin-left: auto;
     margin-right: auto;
   }
 }
