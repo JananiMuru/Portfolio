@@ -1589,3 +1589,10 @@ ul {
   .animate-fade-up-delay-3 { animation-delay: 0.3s; }
   .animate-fade-up-delay-4 { animation-delay: 0.4s; }
   
+
+  @media (max-width: 640px) {
+    .container {
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+    }
+  }
