@@ -741,7 +741,7 @@ ul {
 
   .cta-banner__inner {
     flex-direction: column;
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -1530,7 +1530,7 @@ ul {
   
     .cta-banner__inner {
       flex-direction: column;
-      text-align: center;
+      text-align: left;
     }
   }
   
@@ -1595,4 +1595,14 @@ ul {
       padding-left: 1.25rem;
       padding-right: 1.25rem;
     }
+  }
+
+
+
+  .cta-banner__text h3 {
+    text-align: left;  /* added */
+  }
+  
+  .cta-banner__text p {
+    text-align: left;  /* added */
   }
